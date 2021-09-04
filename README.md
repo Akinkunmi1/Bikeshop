@@ -1,2 +1,0 @@
-# Bikeshop
-Bike Repairs
